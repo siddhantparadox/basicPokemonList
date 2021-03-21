@@ -1,3 +1,3 @@
-## basicPokemonList
-# made using PokeAPI
+# basicPokemonList
+## made using PokeAPI
 https://siddhantparadox.github.io/basicPokemonList/
